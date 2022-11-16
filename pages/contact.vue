@@ -11,10 +11,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Hello!
+                Contact Us
               </p>
               <p class="subtitle">
-                What can I do for you?
+                How can we help you?
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
