@@ -27,13 +27,13 @@
               <br />
               <div class="content">
                 <p>
-                  <strong>
-Cory Roberson<br>
-FOUNDER, PRINCIPAL                  </strong>
+                  <strong>Cory Roberson<br />FOUNDER, PRINCIPAL</strong>
                 </p>
                 <p>
-        Cory is principal of FIN Compliance, FIN Lancer, FIN Disclosures, and he serves a WealthTech/FINTech Compliance Advisor for Proxy CEO, a startup consulting and advisory practice.
-
+                  Cory is principal of FIN Compliance, FIN Lancer, FIN
+                  Disclosures, and he serves a WealthTech/FINTech Compliance
+                  Advisor for Proxy CEO, a startup consulting and advisory
+                  practice.
                 </p>
               </div>
             </article>
