@@ -3,8 +3,17 @@
     <site-hero
       title="About Us"
       subtitle="Crypto and Blockchain industry developments for investment advisors."
+      lead="Blog for research in Compliance, Crypto, Custody, and more"
       image="/uploads/home-hero.jpg"
-    ></site-hero>
+    >
+      <button
+        v-if="$siteConfig.newsletter.on"
+        class="button is-primary"
+        @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
+      >
+        Sign Up for Newsletter
+      </button>
+    </site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
