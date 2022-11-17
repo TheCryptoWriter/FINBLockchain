@@ -10,9 +10,10 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'FIN BLockchain Blog',
-  tagline: 'We help firms to integrate crypto and blockchain solutions into its business model for future growth',
+  tagline:
+    ' We help firms to integrate crypto and blockchain solutions into its business model for future growth ',
   featureImage: '/uploads/home-hero.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: '/logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
@@ -29,7 +30,7 @@ export default {
     {
       name: 'Categories',
       link: '/categories'
-    },
+    }
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
@@ -63,8 +64,7 @@ export default {
     // or any other url you want to post the form data to
     mailchimp: {
       on: true,
-      formAction:
-        ''
+      formAction: ''
     },
     custom: {
       on: false,

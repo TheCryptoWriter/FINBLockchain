@@ -1,5 +1,5 @@
 <template>
-  <div id="home-page" class="page-wrapper home-page">
+  <div id="home-page" class="page-wrapper home-page has-navbar-fixed-top">
     <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
       <button
         v-if="$siteConfig.newsletter.on"

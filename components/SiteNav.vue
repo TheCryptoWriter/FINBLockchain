@@ -75,5 +75,14 @@ export default {
 
 .navbar-menu a {
   display: block;
+  color: #000;
+}
+.navbar {
+  padding: 0px 40px 0px 40px;
+}
+@media screen and (max-width: 1023px) {
+  .navbar {
+    padding: 0.5rem 1rem;
+  }
 }
 </style>

@@ -45,6 +45,7 @@ if (process.env.NODE_ENV === 'production') {
           'is-9by16',
           'nuxt__build_indicator',
           '__nuxt',
+          'png',
           'svg',
           'table',
           'td',
