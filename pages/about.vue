@@ -3,7 +3,7 @@
     <site-hero
       title="About Us"
       subtitle="Crypto and Blockchain industry developments for investment advisors."
-      image="/uploads/about-hero.jpg"
+      image="/uploads/home-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
