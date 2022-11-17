@@ -15,22 +15,17 @@
         <button class="delete" aria-label="close" @click="close()"></button>
       </header>
       <section class="modal-card-body">
-        <slot></slot>
-      </section>
-      <footer v-if="footer" class="modal-card-foot">
-        <button class="button is-success" @click="$emit('confirm')">
-          {{ confirmText }}
-        </button>
-        <button
-          class="button"
-          @click="
-            close()
-            $emit('cancel')
-          "
+        <iframe
+          width="540"
+          height="305"
+          src="https://9f53a99c.sibforms.com/serve/MUIEAGkZtd4jirlW0oLOKnPl6vR6_ugb-gRMLqZgv_hoCTie7dwlHzsQEahDbjWToXCJjgoDkyTyA7kOl5DflMTKc6fHuhf_-UKJCnnDbbkow8U0XTK__6Mk2pSeMEhvk36Hf4qm-XEg1aUnUssB2urhKC57muaqik1vP1YJMjjypA5oFapRRYFQAZy1tvlDuX-7W-aS_qbQk-OV"
+          frameborder="0"
+          scrolling="auto"
+          allowfullscreen
+          style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"
         >
-          Cancel
-        </button>
-      </footer>
+        </iframe>
+      </section>
     </div>
   </div>
 </template>
@@ -66,6 +61,10 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
+iframe {
+  height: 305pt;
+  width: 540pt;
+}
 .modal {
   &.is-active {
     .modal-card {

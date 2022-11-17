@@ -63,12 +63,13 @@ export default {
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
     mailchimp: {
-      on: true,
+      on: false,
       formAction: ''
     },
     custom: {
-      on: false,
-      formAction: ''
+      on: true,
+      formAction:
+        'https://9f53a99c.sibforms.com/serve/MUIEAGkZtd4jirlW0oLOKnPl6vR6_ugb-gRMLqZgv_hoCTie7dwlHzsQEahDbjWToXCJjgoDkyTyA7kOl5DflMTKc6fHuhf_-UKJCnnDbbkow8U0XTK__6Mk2pSeMEhvk36Hf4qm-XEg1aUnUssB2urhKC57muaqik1vP1YJMjjypA5oFapRRYFQAZy1tvlDuX-7W-aS_qbQk-OV'
     }
   },
 
