@@ -104,6 +104,7 @@ export default {
     transform: translateY(-15px);
   }
   .title,
+  .lead,
   .subtitle,
   strong {
     color: white;

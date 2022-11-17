@@ -35,6 +35,7 @@ function setOtherPageData(commit, siteConfig) {
   commit('set', {
     title: siteConfig.siteName,
     subtitle: siteConfig.tagline,
+    lead: siteConfig.siteLead,
     featureImage: siteConfig.featureImage
   })
 }

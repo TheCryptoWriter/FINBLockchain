@@ -1,12 +1,17 @@
 <template>
   <div id="home-page" class="page-wrapper home-page has-navbar-fixed-top">
-    <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
+    <site-hero
+      :title="title"
+      :lead="lead"
+      :subtitle="subtitle"
+      :image="featureImage"
+    >
       <button
         v-if="$siteConfig.newsletter.on"
         class="button is-primary"
         @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
       >
-        Subscribe To Newsletter
+        Sign Up for Newsletter
       </button>
     </site-hero>
     <main-section theme="one-column">
@@ -38,7 +43,7 @@ export default {
     NewsLetterFormModal
   },
   computed: {
-    ...mapState(['title', 'subtitle', 'featureImage'])
+    ...mapState(['title', 'lead', 'subtitle', 'featureImage'])
   },
   fetch({ store, params }) {
     setPageData(store, { slug: 'home' })

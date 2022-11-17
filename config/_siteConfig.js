@@ -10,8 +10,8 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'FINBLockchain Blog',
-  tagline:
-    ' Crypto and Blockchain industry developments for investment advisors. ',
+  tagline: ' Crypto and Blockchain developments for investment advisors. ',
+  siteLead: 'Blog for research in Compliance, Crypto, Custody, and more',
   featureImage: '/uploads/home-hero.jpg',
   logo: '/logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -58,7 +58,7 @@ export default {
   // Newsletter Subscribe
   newsletter: {
     on: true,
-    heading: 'Subscribe to Our Newsletter',
+    heading: 'Sign Up for Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to

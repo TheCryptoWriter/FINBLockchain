@@ -21,11 +21,12 @@
           <quote-card />
           <br />
           <p>
-            With the support of partners, FIN Compliance and FIN Lancer, we work
-            on integrating solutions and addressing regulatory challenges for
-            our network for advisors. We envision a regulatory framework that
-            encourages business growth of innovative technologies in the
-            traditional financial sectors.
+            With the support of partners,
+            <a href="fincompliance.io">FIN Compliance</a> and
+            <a href="finlancer.io">FIN Lancer</a>, we provide our network of
+            advisors with resources to address regulatory challenges of
+            integrating blockchain technology and cryptocurrency assets its
+            business model for future growth.
           </p>
         </div>
         <div class="content">

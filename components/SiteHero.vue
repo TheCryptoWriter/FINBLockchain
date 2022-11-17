@@ -14,6 +14,9 @@
         <h2 class="subtitle animated fadeInUp slower">
           {{ subtitle }}
         </h2>
+        <h2 class="lead animated fadeInDown">
+          {{ lead }}
+        </h2>
         <br />
         <div
           v-if="$slots.default"
@@ -31,6 +34,7 @@ export default {
   props: {
     title: { type: String, default: '' },
     subtitle: { type: String, default: '' },
+    lead: { type: String, default: '' },
     image: { type: String, default: '' },
     color: { type: String, default: '#469af0' },
     theme: { type: String, default: '' }
@@ -69,13 +73,19 @@ export default {
   }
 }
 .subtitle,
+.lead,
 .under-subtitle {
   padding: 0;
   margin: 0;
 }
 .subtitle {
+  font-size: 2rem;
+  margin-bottom: 0 !important;
+}
+.lead {
   font-size: 1rem;
   margin-bottom: 0 !important;
+  padding-top: 10px;
 }
 .under-subtitle {
   display: inline-block;
@@ -138,6 +148,7 @@ export default {
 .hero-theme-dark {
   .title,
   .subtitle,
+  .lead,
   .under-subtitle,
   .under-subtitle strong {
     color: white;
@@ -149,6 +160,7 @@ export default {
   }
   .title,
   .subtitle,
+  .lead,
   .under-subtitle,
   .under-subtitle strong {
     text-shadow: 1px 1px 2px white;

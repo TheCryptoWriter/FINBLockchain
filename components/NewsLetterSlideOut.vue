@@ -32,9 +32,7 @@ export default {
   },
   computed: {
     header() {
-      return (
-        this.$siteConfig.newsletter.heading || 'Subscribe to Our Newsletter'
-      )
+      return this.$siteConfig.newsletter.heading || 'Sign Up for Newsletter'
     }
   },
   methods: {
