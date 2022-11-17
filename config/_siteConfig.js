@@ -9,9 +9,9 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'FIN BLockchain Blog',
+  siteName: 'FINBLockchain Blog',
   tagline:
-    ' We help firms to integrate crypto and blockchain solutions into its business model for future growth ',
+    ' Crypto and Blockchain industry developments for investment advisors. ',
   featureImage: '/uploads/home-hero.jpg',
   logo: '/logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {

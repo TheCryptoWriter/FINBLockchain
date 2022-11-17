@@ -2,11 +2,11 @@
   <div class="card quote-card">
     <div class="card-content">
       <p class="title">
-        “Always code as if the guy who ends up maintaining your code will be a
-        violent psychopath who knows where you live.”
+        “We help firms to integrate crypto and blockchain solutions into its its
+        business model for future growth.”
       </p>
       <p class="subtitle">
-        ~ Martin Golding
+        ~ Cory Roberson, Founder, Principal
       </p>
     </div>
     <footer class="card-footer">

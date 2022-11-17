@@ -2,93 +2,137 @@
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
       title="About Us"
-      subtitle="Example About Page"
+      subtitle="Crypto and Blockchain industry developments for investment advisors."
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h2>What We Do</h2>
           <p>
-            <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
-            </strong>
+            According to a 2022 Cerulli Associates study, about 45% of advisors
+            say they expect to use cryptocurrencies in the future based on
+            client requests, but just 7% of advisors say they are currently
+            using these assets based on their own recommendations, and 10% are
+            using it because of client requests – and others remain on the
+            sidelines due to lack of regulation prevents further involvement.
           </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
-          </p>
-
-          <h3>Another Fake Heading</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
-          </p>
+          <br />
           <quote-card />
-          <h3>Still More Fake Content</h3>
+          <br />
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit! Lorem ipsum dolor sit amet, consectetur
-            adipisicing elit.
-            <strong>Alias aut facere harum ipsam</strong> quibusdam quidem
-            quisquam saepe? Alias architecto blanditiis consequatur consequuntur
-            dicta ipsa iste modi provident, quod, similique veritatis.
+            With the support of partners, FIN Compliance and FIN Lancer, we work
+            on integrating solutions and addressing regulatory challenges for
+            our network for advisors. We envision a regulatory framework that
+            encourages business growth of innovative technologies in the
+            traditional financial sectors.
           </p>
         </div>
-
-        <div class="tile is-ancestor">
-          <div class="tile is-parent">
+        <div class="content">
+          <h3>Research/Topics</h3>
+        </div>
+        <div class="columns is-ancestor is-vcentered">
+          <div class="column is-half is-parent h-100">
             <article class="tile is-child box">
               <p class="title">
-                Cool Stuff We Do
+                Wallets
               </p>
-              <p class="subtitle">
-                Sooo Cool
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
+              <p class="subtitle"></p>
+              <figure class="image">
+                <opti-image
+                  :src="require('~/assets/uploads/placeholder.jpg').src"
+                  :srcset="require('~/assets/uploads/placeholder.jpg').srcSet"
+                />
               </figure>
             </article>
           </div>
-          <div class="tile is-parent">
+          <div class="column is-half is-parent h-100">
             <article class="tile is-child box">
               <p class="title">
-                Other Cool Things
+                Suitability
               </p>
-              <p class="subtitle">
-                Just as cool
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
+              <p class="subtitle"></p>
+              <figure class="image">
+                <opti-image
+                  :src="require('~/assets/uploads/placeholder.jpg').src"
+                  :srcset="require('~/assets/uploads/placeholder.jpg').srcSet"
+                />
               </figure>
             </article>
           </div>
-          <div class="tile is-parent">
+        </div>
+        <div class="columns is-ancestor is-vcentered">
+          <div class="column is-half is-parent h-100">
             <article class="tile is-child box">
               <p class="title">
-                All the cool
+                Custody
+              </p>
+              <p class="subtitle"></p>
+              <figure class="image">
+                <opti-image
+                  :src="require('~/assets/uploads/placeholder.jpg').src"
+                  :srcset="require('~/assets/uploads/placeholder.jpg').srcSet"
+                />
+              </figure>
+            </article>
+          </div>
+          <div class="column is-half is-parent h-100">
+            <article class="tile is-child box">
+              <p class="title">
+                Technology
+              </p>
+              <p class="subtitle"></p>
+              <figure class="image">
+                <opti-image
+                  :src="require('~/assets/uploads/placeholder.jpg').src"
+                  :srcset="require('~/assets/uploads/placeholder.jpg').srcSet"
+                />
+              </figure>
+            </article>
+          </div>
+        </div>
+        <div class="content">
+          <h3>Partners</h3>
+        </div>
+        <div class="columns is-ancestor is-vcentered">
+          <div class="column is-half is-parent h-100">
+            <article class="tile is-child box">
+              <p class="title">
+                Compliance
               </p>
               <p class="subtitle">
-                that is all
+                For compliance and suitability solutions.
               </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
+              <figure class="image">
+                <opti-image
+                  :src="require('~/assets/uploads/fincompliance.jpg').src"
+                  :srcset="require('~/assets/uploads/fincompliance.jpg').srcSet"
+                />
+              </figure>
+            </article>
+          </div>
+          <div class="column is-half is-parent h-100">
+            <article class="tile is-child box">
+              <p class="title">
+                Technology/Integrations
+              </p>
+              <p class="subtitle">
+                For integration and implementation support.
+              </p>
+              <figure class="image">
+                <opti-image
+                  :src="require('~/assets/uploads/finlancer.jpg').src"
+                  :srcset="require('~/assets/uploads/finlancer.jpg').srcSet"
+                />
               </figure>
             </article>
           </div>
         </div>
       </template>
-
       <template v-slot:sidebar>
-        <h3 class="subtitle is-4">
+        <h4 class="subtitle is-4">
           Latest Posts
-        </h3>
+        </h4>
         <posts-grid :per-row="1" :number="2" />
       </template>
     </main-section>
@@ -105,3 +149,22 @@ export default {
   components: { QuoteCard }
 }
 </script>
+
+<style>
+.card-footer {
+  display: none;
+}
+h4 {
+  font-size: large;
+}
+.image {
+  width: 100%;
+  height: auto;
+}
+.columns.is-ancestor {
+  height: auto;
+}
+.is-parent {
+  height: 100%;
+}
+</style>
