@@ -71,6 +71,7 @@ export default {
 }
 .navbar-burger {
   height: auto;
+  background: none;
 }
 
 .navbar-menu a {
