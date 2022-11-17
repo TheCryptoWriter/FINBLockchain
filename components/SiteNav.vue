@@ -24,6 +24,9 @@
       }"
     >
       <ul class="navbar-end">
+        <li class="navbar-item">
+          <a href="/">Home</a>
+        </li>
         <li
           v-for="item in $siteConfig.mainMenu"
           :key="item.link"
@@ -39,6 +42,7 @@
             {{ item.name }}
           </component>
         </li>
+
         <li class="navbar-item site-search-wrapper">
           <site-search />
         </li>
