@@ -67,38 +67,72 @@ export default {
 }
 
 .title {
-  font-weight: 300;
+  @media (max-width: 768px) {
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 40px;
+    padding-bottom: 20px;
+  }
+
   @media (min-width: 768px) {
     font-size: 3.2rem;
+    font-size: 46px;
+    line-height: 54px;
+    padding-bottom: 30px;
   }
 }
+
 .subtitle,
 .lead,
 .under-subtitle {
   padding: 0;
   margin: 0;
 }
+
 .subtitle {
-  font-size: 2rem;
-  margin-bottom: 0 !important;
+  @media (max-width: 768px) {
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+  }
+
+  @media (min-width: 768px) {
+    font-size: 2rem;
+    padding-bottom: 20px;
+  }
 }
+
 .lead {
   font-size: 1rem;
   margin-bottom: 0 !important;
-  padding-top: 10px;
+  @media (max-width: 768px) {
+    font-size: 0.75rem;
+    padding-bottom: 0px;
+  }
+  @media (min-width: 768px) {
+    font-size: 1rem;
+    padding-bottom: 10px;
+  }
 }
+
 .under-subtitle {
   display: inline-block;
   font-size: 0.8rem;
   border-top: 2px solid $primary;
   padding-top: 5px;
 }
+
 .opti-image {
   opacity: 0;
 }
+
 .opti-image-loaded {
   opacity: 0.12;
   animation: blurIn 4.5s ease;
+}
+
+h1 {
+  color: #fff;
+  font-weight: bold;
 }
 </style>
 <style lang="scss">
@@ -113,22 +147,27 @@ export default {
     width: 100%;
     height: 100%;
   }
+
   .opti-image {
     opacity: 0;
   }
+
   .opti-image-loaded {
     opacity: 1;
   }
 }
+
 .hero-theme-mist {
   .hero-bg-img {
     filter: grayscale(1);
   }
+
   .opti-image-loaded {
     opacity: 0.12;
     animation: blurInGrayscale 4.5s ease;
   }
 }
+
 .hero-theme-dark,
 .hero-theme-light {
   &.hero:after {
@@ -140,11 +179,13 @@ export default {
     background: rgba(0, 0, 0, 0.25);
     position: absolute;
   }
+
   .hero-body {
     position: relative;
     z-index: 2;
   }
 }
+
 .hero-theme-dark {
   .title,
   .subtitle,
@@ -154,10 +195,12 @@ export default {
     color: white;
   }
 }
+
 .hero-theme-light.hero {
   &:after {
     background: rgba(255, 255, 255, 0.6);
   }
+
   .title,
   .subtitle,
   .lead,
