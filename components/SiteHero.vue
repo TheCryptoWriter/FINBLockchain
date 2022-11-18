@@ -67,6 +67,7 @@ export default {
 }
 
 .title {
+  margin-bottom: 0 !important;
   @media (max-width: 768px) {
     font-weight: bold;
     font-size: 34px;
@@ -90,6 +91,7 @@ export default {
 }
 
 .subtitle {
+  margin-bottom: 0 !important;
   @media (max-width: 768px) {
     font-size: 1.5rem;
     padding-bottom: 10px;
@@ -102,7 +104,6 @@ export default {
 }
 
 .lead {
-  font-size: 1rem;
   margin-bottom: 0 !important;
   @media (max-width: 768px) {
     font-size: 0.75rem;
