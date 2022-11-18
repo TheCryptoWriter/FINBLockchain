@@ -14,6 +14,7 @@
         Sign Up for Newsletter
       </button>
     </site-hero>
+    <news-letter-form-modal />
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
@@ -149,6 +150,7 @@
   </div>
 </template>
 <script>
+import NewsLetterFormModal from '~/components/NewsLetterFormModal'
 import QuoteCard from '~/components/cards/QuoteCard'
 export default {
   head() {
@@ -156,7 +158,10 @@ export default {
       title: `About | ${this.$siteConfig.siteName}`
     }
   },
-  components: { QuoteCard }
+  components: {
+    QuoteCard,
+    NewsLetterFormModal
+  }
 }
 </script>
 
@@ -176,5 +181,8 @@ h4 {
 }
 .is-parent {
   height: 100%;
+}
+.about-page .under-subtitle {
+  border-top: none;
 }
 </style>
