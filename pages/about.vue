@@ -40,69 +40,6 @@
           </p>
         </div>
         <div class="content">
-          <h3>Research/Topics</h3>
-        </div>
-        <div class="columns is-ancestor is-vcentered">
-          <div class="column is-half is-parent h-100">
-            <article class="tile is-child box">
-              <p class="title">
-                Wallets
-              </p>
-              <p class="subtitle"></p>
-              <figure class="image">
-                <opti-image
-                  :src="require('~/assets/uploads/placeholder.jpg').src"
-                  :srcset="require('~/assets/uploads/placeholder.jpg').srcSet"
-                />
-              </figure>
-            </article>
-          </div>
-          <div class="column is-half is-parent h-100">
-            <article class="tile is-child box">
-              <p class="title">
-                Suitability
-              </p>
-              <p class="subtitle"></p>
-              <figure class="image">
-                <opti-image
-                  :src="require('~/assets/uploads/placeholder.jpg').src"
-                  :srcset="require('~/assets/uploads/placeholder.jpg').srcSet"
-                />
-              </figure>
-            </article>
-          </div>
-        </div>
-        <div class="columns is-ancestor is-vcentered">
-          <div class="column is-half is-parent h-100">
-            <article class="tile is-child box">
-              <p class="title">
-                Custody
-              </p>
-              <p class="subtitle"></p>
-              <figure class="image">
-                <opti-image
-                  :src="require('~/assets/uploads/placeholder.jpg').src"
-                  :srcset="require('~/assets/uploads/placeholder.jpg').srcSet"
-                />
-              </figure>
-            </article>
-          </div>
-          <div class="column is-half is-parent h-100">
-            <article class="tile is-child box">
-              <p class="title">
-                Technology
-              </p>
-              <p class="subtitle"></p>
-              <figure class="image">
-                <opti-image
-                  :src="require('~/assets/uploads/placeholder.jpg').src"
-                  :srcset="require('~/assets/uploads/placeholder.jpg').srcSet"
-                />
-              </figure>
-            </article>
-          </div>
-        </div>
-        <div class="content">
           <h3>Partners</h3>
         </div>
         <div class="columns is-ancestor is-vcentered">

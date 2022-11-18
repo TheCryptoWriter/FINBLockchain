@@ -129,11 +129,6 @@ export default {
   opacity: 0.12;
   animation: blurIn 4.5s ease;
 }
-
-h1 {
-  color: #fff;
-  font-weight: bold;
-}
 </style>
 <style lang="scss">
 .hero {

@@ -110,10 +110,5 @@ export default {
 <style>
 body {
   font-family: 'Arial', sans-serif;
-  font-weight: normal;
-}
-h1 {
-  color: #fff;
-  font-weight: bold;
 }
 </style>
