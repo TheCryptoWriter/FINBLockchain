@@ -2,7 +2,7 @@
 @import "~bulma/sass/utilities/_all";
 
 // Set your colors
-$primary: #00d1b2;
+$primary: #f29a32;
 $primary-invert: findColorInvert($primary);
 $twitter: #4099FF;
 $twitter-invert: findColorInvert($twitter);
@@ -17,7 +17,7 @@ $colors: (
   "link": ($link, $link-invert),
   "info": ($info, $info-invert),
   "success": ($success, $success-invert),
-  "warning": ($warning, $warning-invert),
+  "warning": (#f29a32, $warning-invert),
   "danger": ($danger, $danger-invert),
   "twitter": ($twitter, $twitter-invert)
 );
