@@ -17,7 +17,22 @@
     <main-section theme="one-column">
       <template v-slot:default>
         <!-- All Posts -->
+        <section class="section">
+          <div class="headings">
+            <p class="title">
+              News
+            </p>
+          </div>
+        </section>
         <posts-grid />
+        <section class="section">
+          <div class="headings">
+            <p class="title">
+              Research
+            </p>
+          </div>
+        </section>
+        <categoriesGrid />
       </template>
       <template v-slot:sidebar>
         Nothing here
@@ -30,6 +45,7 @@
 <script>
 import { mapState } from 'vuex'
 import { setPageData } from '../helper'
+import CategoriesGrid from '../components/grids/CategoriesGrid.vue'
 import NewsLetterFormModal from '~/components/NewsLetterFormModal'
 
 export default {
@@ -40,7 +56,8 @@ export default {
     }
   },
   components: {
-    NewsLetterFormModal
+    NewsLetterFormModal,
+    CategoriesGrid
   },
   computed: {
     ...mapState(['title', 'lead', 'subtitle', 'featureImage'])
@@ -54,5 +71,8 @@ export default {
 <style>
 .home-page .under-subtitle {
   border-top: none;
+}
+.headings {
+  text-align: center;
 }
 </style>
