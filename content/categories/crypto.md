@@ -1,5 +1,5 @@
 ---
 name: Crypto
-image: /uploads/custody.jpg
+image: /uploads/crypto.jpg
 description: News and updates related to blockchain cryptocurrencies
 ---
