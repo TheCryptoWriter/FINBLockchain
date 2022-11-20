@@ -1,5 +1,5 @@
 ---
 name: Technology
-image: /uploads/technology.jpg
+image: /uploads/blockchain.jpg
 description: N﻿ews and updates related to blockchain technologies.
 ---
