@@ -5,9 +5,9 @@ category:
   - Compliance
 author: Cory Roberson, Principal at RIA Review and RIA Consults
 date: 2017-11-20T01:10:13.513Z
-featureImage: /uploads/roboadvisor1.jpg
+featureImage: /uploads/roboadvisor.jpg
 ---
-\
+
 Since 2004, the Securities and Exchange Commission (SEC) has required its registrants to conduct annual reviews to determine the adequacy and effectiveness of firm procedures (*ref. Rule 206(4)-7*).  In 2011 the commission voted to increase its oversight of private funds (Form PF), establish new exemptions, and concurrently reallocate its jurisdictional authority over many mid-sized advisors (*firms with AUM under $100 million*) to state regulators.
 
 Six years later, the securities industry is undergoing another shift and updating procedures for firms moving towards ***Robo-Advisors and Blockchain Technologies***.

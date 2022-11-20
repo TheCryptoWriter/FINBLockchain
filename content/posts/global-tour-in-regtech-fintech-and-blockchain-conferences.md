@@ -5,9 +5,8 @@ category:
   - Technology
 author: Cory Roberson, Principal at RIA Review, RIA Consults
 date: 2017-12-14T01:13:40.688Z
-featureImage: /uploads/crypto-cory.JPG
+featureImage: /uploads/crypto-cory.jpg
 ---
-<!--StartFragment-->
 
 **Research into FinTech world**
 
@@ -135,5 +134,3 @@ The general consensus was that the industry is still in the process of creating 
 In 2016, I also visited conferences such as: *FinTech Connect in London* and MENA International Financial Forum & Expo in Dubai.  Based on my observations, more research is needed to interpret the future regulatory implications of these new technologies. We look forward to offering more regulatory solutions to help firms meet their compliance reporting obligations in light of changes coming to the industry. \
 \
 Email us at: cory@riareview.com or call us at: 650-305-2688 if interested in our compliance management software, RIA Review.
-
-<!--EndFragment-->

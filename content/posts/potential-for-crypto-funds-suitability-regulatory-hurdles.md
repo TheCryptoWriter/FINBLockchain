@@ -5,9 +5,8 @@ category:
   - Crypto
 author: Cory Roberson, Principal at FIN Compliance and FIN Lancer
 date: 2018-06-16T01:05:51.648Z
-featureImage: /uploads/Crypto%2Bphoto.jpg
+featureImage: /uploads/crypto-photo.jpg
 ---
-<!--StartFragment-->
 
 Cryptocurrency is growing into a viable alternative asset class.  The earliest adopters, mostly FinTech entrepreneurs, alternative hedge fund managers and/or VC investors, are pouring money into crypto exchanges, blockchain based businesses, and now private funds
 
@@ -119,5 +118,3 @@ Overall, the SEC recognizes the need to support innovation and entrepreneurial g
 Moreover, alternative investment managers, who offer these products to its accredited investor base should provide (or obtain) full disclosures of the crypto’s inherent risks and divergences between other private/alternative securities.  Given its popularity, more private fund products should be in the pipeline for this investor base. 
 
 In other blogs, we will discuss future considerations in the blockchain space, such as AML, KYC, crypto fund registration, cybersecurity, and more. 
-
-<!--EndFragment-->

@@ -9,17 +9,16 @@ category:
   - Crypto
 author: Cory Roberson, Principal at FIN Compliance and FIN Lancer
 date: 2018-10-14T01:01:16.218Z
-featureImage: /uploads/cory-NYC.jpg
+featureImage: /uploads/cory-nyc.jpg
 ---
-<!--StartFragment-->
 
-**August 13, 2018.  Last week included a pit stop to New York City to research regulatory developments in crypto, token sales (ICOs/STOs*), and its underlying blockchain-fueled technologies.  This new space, assuming further global adoption and legislative rulemaking, has the capacity to improve authentication, financial transfers, data sharing, compliance, supply chain, security, logistics, and other operational functionalities across many industries.**  
+**August 13, 2018.**  Last week included a pit stop to New York City to research regulatory developments in crypto, token sales (ICOs/STOs*), and its underlying blockchain-fueled technologies.  This new space, assuming further global adoption and legislative rulemaking, has the capacity to improve authentication, financial transfers, data sharing, compliance, supply chain, security, logistics, and other operational functionalities across many industries.**  
 
 **Challenges remain as blockchain development outpaces regulation.  Despite this deterrent, blockchain growth persists as entrepreneurs work around the surmounting regulatory scrutiny.** 
 
 
 
-*\** **What are ICOs and STO’s**
+**What are ICOs and STO’s**
 
 **ICO – Initial Coin Offering; STO – Security Token Offering**
 
@@ -208,5 +207,3 @@ To get our network up to speed on new technologies, we will be announcing public
 
 
 [![](https://1.bp.blogspot.com/-lpS8IRiE7dA/XOsgaziOJ8I/AAAAAAAAKmA/q9sYj0UNmFEwSojGGPpsMe3yejOdzkVjgCEwYBhgL/s400/052519%2B-%2Bgetting%2Bstarted%2B-%2Blogo.png)](https://1.bp.blogspot.com/-lpS8IRiE7dA/XOsgaziOJ8I/AAAAAAAAKmA/q9sYj0UNmFEwSojGGPpsMe3yejOdzkVjgCEwYBhgL/s1600/052519%2B-%2Bgetting%2Bstarted%2B-%2Blogo.png)
-
-<!--EndFragment-->
