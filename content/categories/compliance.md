@@ -1,5 +1,5 @@
 ---
 name: Compliance
-image: /uploads/suitability.jpg
+image: /uploads/compliance.jpg
 description: N﻿ews and updates related to blockchain compliance
 ---
