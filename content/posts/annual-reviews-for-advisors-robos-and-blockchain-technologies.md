@@ -2,10 +2,10 @@
 title: Annual Reviews for Advisors, Robo's, and Blockchain Technologies
 subtitle: What's in your Annual Review Process?
 category:
-  - Suitability
+  - Compliance
 author: Cory Roberson, Principal at RIA Review and RIA Consults
 date: 2017-11-20T01:10:13.513Z
-featureImage: https://1.bp.blogspot.com/-oCvAb-6EIIs/WhC3rrvdtYI/AAAAAAAAHQo/QrxSEiSCIOoCvOSU1QAfBkRejlKkTME9wCLcBGAs/s1600/roboadvisor1.jpeg
+featureImage: /uploads/roboadvisor1.jpg
 ---
 \
 Since 2004, the Securities and Exchange Commission (SEC) has required its registrants to conduct annual reviews to determine the adequacy and effectiveness of firm procedures (*ref. Rule 206(4)-7*).  In 2011 the commission voted to increase its oversight of private funds (Form PF), establish new exemptions, and concurrently reallocate its jurisdictional authority over many mid-sized advisors (*firms with AUM under $100 million*) to state regulators.

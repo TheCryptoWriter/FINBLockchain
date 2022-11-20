@@ -5,7 +5,7 @@ category:
   - Technology
 author: Cory Roberson, Principal at RIA Review, RIA Consults
 date: 2017-12-14T01:13:40.688Z
-featureImage: https://3.bp.blogspot.com/-zer0KM1Id-A/WjWaiZETmPI/AAAAAAAAHes/MAq3xDdQoMs9ttWGqLvj6t4hkzOmfaZKACEwYBhgL/s320/IMG_1561.JPG
+featureImage: /uploads/crypto-cory.JPG
 ---
 <!--StartFragment-->
 

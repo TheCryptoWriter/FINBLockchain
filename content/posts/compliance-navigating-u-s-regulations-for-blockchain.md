@@ -5,7 +5,7 @@ category:
   - Technology
 author: Cory Roberson, Principal at FIN Compliance and FIN Lancer
 date: 2018-10-14T00:11:57.762Z
-featureImage: https://2.bp.blogspot.com/-diQM-twLQTU/W8TXmUIRKqI/AAAAAAAAJWY/jZBSFRua-lgRzZ0_FykavZASStE15wSrgCLcBGAs/s1600/Women4blockchain%2B-%2B3.jpg
+featureImage: /uploads/crypto-town.jpg
 ---
 <!--StartFragment-->
 
