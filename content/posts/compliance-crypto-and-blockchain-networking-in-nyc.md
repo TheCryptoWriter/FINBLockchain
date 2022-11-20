@@ -5,7 +5,9 @@ subtitle: "Challenges remain as blockchain development outpaces
   entrepreneurs work around the surmounting regulatory scrutiny. "
 category:
   - Technology
-author: By Cory Roberson, Principal at FIN Compliance and FIN Lancer
+  - Suitability
+  - Wallets
+author: Cory Roberson, Principal at FIN Compliance and FIN Lancer
 date: 2018-10-14T01:01:16.218Z
 featureImage: https://3.bp.blogspot.com/-SjmbOBffuJE/W3I-hw0Kl9I/AAAAAAAAJNw/GSeqcrk_ebkkGtY62xsm6gR0gyOvVu6wACLcBGAs/s400/Cory%2B-%2BNYC.jpg
 ---
