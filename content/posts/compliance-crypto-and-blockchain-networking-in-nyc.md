@@ -7,7 +7,7 @@ category:
   - Technology
   - Compliance
   - Crypto
-author: Cory Roberson, Principal at FIN Compliance and FIN Lancer
+author: Cory Roberson
 date: 2018-10-14T01:01:16.218Z
 featureImage: /uploads/cory-nyc.jpg
 ---

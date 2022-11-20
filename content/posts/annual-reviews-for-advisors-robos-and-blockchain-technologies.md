@@ -3,7 +3,7 @@ title: Annual Reviews for Advisors, Robo's, and Blockchain Technologies
 subtitle: What's in your Annual Review Process?
 category:
   - Compliance
-author: Cory Roberson, Principal at RIA Review and RIA Consults
+author: Cory Roberson
 date: 2017-11-20T01:10:13.513Z
 featureImage: /uploads/roboadvisor.jpg
 ---

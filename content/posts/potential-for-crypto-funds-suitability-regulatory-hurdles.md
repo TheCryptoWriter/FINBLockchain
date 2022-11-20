@@ -3,7 +3,7 @@ title: Potential for Crypto Funds, Suitability & Regulatory Hurdles
 subtitle: Emergence of Crypto Funds and regulatory hurdles with listed ETF’s
 category:
   - Crypto
-author: Cory Roberson, Principal at FIN Compliance and FIN Lancer
+author: Cory Roberson
 date: 2018-06-16T01:05:51.648Z
 featureImage: /uploads/crypto-photo.jpg
 ---

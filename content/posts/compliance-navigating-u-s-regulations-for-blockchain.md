@@ -3,7 +3,7 @@ title: "Compliance: Navigating U.S. Regulations for Blockchain"
 subtitle: Ready for “The blockchain” in a town near you?
 category:
   - Technology
-author: Cory Roberson, Principal at FIN Compliance and FIN Lancer
+author: Cory Roberson
 date: 2018-10-14T00:11:57.762Z
 featureImage: /uploads/crypto-town.jpg
 ---

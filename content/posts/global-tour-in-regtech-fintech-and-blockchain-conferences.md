@@ -3,7 +3,7 @@ title: Global tour in RegTech, FinTech, and Blockchain Conferences
 subtitle: Research into FinTech world
 category:
   - Technology
-author: Cory Roberson, Principal at RIA Review, RIA Consults
+author: Cory Roberson
 date: 2017-12-14T01:13:40.688Z
 featureImage: /uploads/crypto-cory.jpg
 ---
