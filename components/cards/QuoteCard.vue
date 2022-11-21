@@ -2,7 +2,7 @@
   <div class="card quote-card">
     <div class="card-content">
       <p class="title">
-        “We help firms to integrate crypto and blockchain solutions into its its
+        “We help firms to integrate crypto and blockchain solutions into its
         business model for future growth.”
       </p>
       <p class="subtitle">
