@@ -52,7 +52,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: '' // 'blog-danielkelly-io'
+    siteShortName: 'finblockchain' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
