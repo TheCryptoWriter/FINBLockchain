@@ -10,11 +10,7 @@ featureImage: https://rmegold.com/wp-content/uploads/2022/12/goldsilver_93631789
 ---
 The idea of a central bank digital currency (CBDC) has gained popularity since the Bank of England introduced it in its 2015 research agenda. In fact, one of the most important trends that continued to grow over the course of 2022 was the interest by central banks across the globe in further investigating the formation of central bank digital currencies (CBDC).
 
- <aside style="box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;padding-top:5px;">
-
 > **A CBDC is a central bank digital liability that is easily accessible to the general public. To put it another way, it is comparable to a digital version of paper currency. The general public would be able to make digital payments with a CBDC, as if it were cash in their wallets.**
-
- </aside><br><br>
 
 On the contrary, CBDC could give monetary policymakers the ability to influence spending patterns by restricting what goods and services can be bought with their digital assets, as well as the ability to automate tax collection through the use of smart contracts.
 
