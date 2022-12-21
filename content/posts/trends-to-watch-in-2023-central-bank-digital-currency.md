@@ -26,18 +26,18 @@ Although no decisions have been made regarding whether or not to pursue a CBDC p
 
 Benefits:
 
-* safely meet future needs and demands for payment services;
-* Improvements to Cross-Border Payments;
-* Support the dollar’s international role;
-* Financial Inclusion;
+* safely meet future needs and demands for payment services.
+* Improvements to Cross-Border Payments.
+* Support the dollar’s international role.
+* Financial Inclusion.
 * Extend public access to safe central bank money.
 
 Risks:
 
-* Changes to financial-sector market structure;
-* safety and stability of the financial system;
-* Efficacy of Monetary Policy Implementation;
-* Privacy and data protection, and the prevention of financial crimes;
+* Changes to financial-sector market structure.
+* safety and stability of the financial system.
+* Efficacy of Monetary Policy Implementation.
+* Privacy and data protection, and the prevention of financial crimes.
 * Operational Resilience and Cybersecurity.
 
 The need to adapt to the increasingly digital nature of our lives and the growing irrelevance of cash within the economy have greatly contributed to the interest in the creation of CBDCs. Cash is the only form of central bank money that is currently accessible to the non-banking private sector.
