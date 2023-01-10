@@ -1,8 +1,8 @@
 {
-  "name": "nuxtlify",
+  "name": "FINBlockchain",
   "version": "1.0.0",
   "description": "Blog template for Nuxt.js/Netlify",
-  "author": "Daniel Kelly",
+  "author": "David McNeal",
   "license": "MIT",
   "scripts": {
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
